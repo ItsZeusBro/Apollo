@@ -4,4 +4,4 @@
 
 ### Apollo shoots back real-time feedback as arrow messages
 
-#### In the future, uses devices will do all of their computation on the cloud. This means Hydra can be used for real-time anylytics that is seperate from Platform SDK's. That is Apollo's aim.
+#### In the future, user devices will do all of their computation on the cloud. This means Hydra can be used for real-time anylytics that is seperate from Platform SDK's. That is Apollo's aim.
